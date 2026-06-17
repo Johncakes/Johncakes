@@ -4,30 +4,16 @@ Welcome to my GitHub profile! I'm a developer passionate about building creative
 
 ## 🛠️ Tech Stack
 
-I work with a variety of technologies including:
-- **Frontend**: TypeScript, React, JavaScript
-- **Backend**: Python
-- **Game Development**: C#, GDScript, ShaderLab, Kotlin (Android)
-- **Other**: HTML, CSS
-
-## 🎮 Featured Projects
-
-### Web Applications
-- **[Calculator App](https://github.com/Johncakes/Calculator-app)** - A TypeScript calculator application
-- **[Maple Timer](https://github.com/Johncakes/Maple_timer)** - A handy TypeScript timer tool
-- **[React Todo List](https://github.com/Johncakes/react-todo-list)** - A React-based todo application with optimization
-- **[React SPA Routing](https://github.com/Johncakes/react-spa-routing)** - Routing-based React application
-
-### Game Development
-- **[Sector 7 VR Meltdown](https://github.com/Johncakes/Sector-7-VR-Meltdown)** - Capstone VR project (2026)
-- **[Arcade Shooter](https://github.com/Johncakes/ArcadeShooter)** - C# arcade game
-- **[Slime Shooter](https://github.com/Johncakes/Slime_shooter)** - High school game project
-- **[DinoJump](https://github.com/Johncakes/DinoJump)** - T-Rex game in Unity (archived)
-
-### Learning & Practice
-- **[Advent of Code 2023](https://github.com/Johncakes/AdventOfCode2023)** - Programming challenges in JavaScript
-- **[Android Learning](https://github.com/Johncakes/Learning_Android_Studio)** - Android development in Kotlin
-- **[React Advanced](https://github.com/Johncakes/self-paced-react-advanced)** - Advanced React concepts
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📚 What I'm Learning
 - Coding agents and agent orchestration with markdowns
@@ -36,10 +22,11 @@ I work with a variety of technologies including:
 - Game development with various engines
 
 ## 💡 Interests
-- Game development
-- Web applications
-- Music theory (exploring with GDScript)
-- Problem-solving through coding challenges
+- 🎮 Game development
+- 🌐 Web applications
+- 🎵 Music theory (exploring with GDScript)
+- 🧩 Problem-solving through coding challenges
+- 🤖 Using AI tools to amplify the fun in my hobbies
 
 ---
 
