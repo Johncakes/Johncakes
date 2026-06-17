@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi there!
 
-Welcome to my GitHub profile! I'm a developer passionate about building creative projects across multiple domains.
+A software undergraduate at Sejonog University. Trying out different kinds of projects to see what I really like. So far frontend web development seems to be the case. Always up to try new things though.
 
 ## 🛠️ Tech Stack
 
@@ -24,10 +24,6 @@ Welcome to my GitHub profile! I'm a developer passionate about building creative
 ## 💡 Interests
 - 🎮 Game development
 - 🌐 Web applications
-- 🎵 Music theory (exploring with GDScript)
-- 🧩 Problem-solving through coding challenges
 - 🤖 Using AI tools to amplify the fun in my hobbies
 
 ---
-
-Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
