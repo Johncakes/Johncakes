@@ -16,14 +16,15 @@ A software undergraduate at Sejonog University. Trying out different kinds of pr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📚 What I'm Learning
+- Fullstack development
 - Coding agents and agent orchestration with markdowns
 - VR development
 - Advanced React patterns
 - Game development with various engines
 
 ## 💡 Interests
-- 🎮 Game development
 - 🌐 Web applications
+- 🎮 Game development
 - 🤖 Using AI tools to amplify the fun in my hobbies
 
 ---
