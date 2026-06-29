@@ -17,13 +17,12 @@ A software undergraduate at Sejonog University. Trying out different kinds of pr
 
 ## 📚 What I'm Learning
 - Fullstack development
-- Coding agents and agent orchestration with markdowns
+- Agent orchestration 
 - VR development
-- Advanced React patterns
-- Game development with various engines
 
 ## 💡 Interests
 - 🌐 Web applications
+- 📖 Open Source contributing
 - 🎮 Game development
 - 🤖 Using AI tools to amplify the fun in my hobbies
 
